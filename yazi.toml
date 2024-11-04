@@ -1,0 +1,2 @@
+[opener]
+edit = [{ run = 'micro "$@"', block = true }]
